@@ -1,0 +1,7 @@
+此版本软件支持NetMaigc08和OpenBox平台。
+
+如果需要编译NetMagic08版本，请打开fast.h文件，添加NetMagic08的定义
+#define NetMagic08 1  /*开启NetMagic08平台定义*/
+
+如果编译成OpenBox版本，将上述宏注释即可，平台默认编译为OpenBox平台软件。
+如果在OpenBox平台使用，还需要使用平台驱动，此驱动可联系湖南新实提供。
