@@ -23,9 +23,6 @@ public class Port {
 	}
 
 
-	public Port(){
-	      return new Port();
-	}
 
 
 	public void setPort_number(String port_number) {
