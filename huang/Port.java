@@ -18,14 +18,14 @@ public class Port {
 	private String duration_sec;
 	private String duration_nsec;
 	
-	
-	
 	public String getPort_number() {
 		return port_number;
 	}
 
 
-
+	public Port(){
+	      return new Port();
+	}
 
 
 
