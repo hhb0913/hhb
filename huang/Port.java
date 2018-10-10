@@ -17,7 +17,6 @@ public class Port {
 	private String collisions;
 	private String duration_sec;
 	private String duration_nsec;
-	private String aaa;
 	
 	
 	
