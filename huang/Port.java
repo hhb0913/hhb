@@ -19,6 +19,7 @@ public class Port {
 	private String duration_nsec;
 	private String aaa;	
 	private String bbb;
+	private String ccc;
 	
 	
 	
