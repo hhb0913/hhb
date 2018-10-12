@@ -19,7 +19,6 @@ public class Port {
 	private String duration_nsec;
 	private String b;
 	private String a;
-	private String c;	
 	
 	public String getPort_number() {
 		return port_number;
